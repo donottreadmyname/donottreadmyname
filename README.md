@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Dang - Cybersecurity Student 👋
 
-<!--
-**donottreadmyname/donottreadmyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 2nd-year Cybersecurity | Focus: IoT Security (Hardware + Software) | Learning in public from dormitory
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 2nd-year Cybersecurity Student (2025-2029)
+- 🎯 Goal: **IoT / Product Security Intern**
+- 🌱 Currently learning: TryHackMe Pre Security + Cyber Security 101
+- 🏠 Setup: 1 laptop + dormitory WiFi + ESP32 (soon)
+- 💡 Motto: Learn 3 lab/day, write it down, build it secure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I'm Learning Now (WIP)
+- [ ] TryHackMe - Pre Security Path (In Progress)
+- [ ] TryHackMe - Cyber Security 101 Path (In Progress)
+- [ ] Fortinet FCF / NSE 1-3 - Plan next month
+- [ ] SIC Samsung IoT Course - Upcoming
+
+### 🛠️ What I Can Do Now
+- **OS:** Basic Linux commands (ls, cd, cat, grep, chmod, ssh)
+- **Code:** Basic Python (file I/O, socket, requests)
+- **NetSec:** Wireshark (filter http, dns, tcp), Nmap basic scan
+- **Learning:** MQTT basics, ESP32 basics
+
+### 🚧 Projects - Work In Progress
+- **IoT-Security-Lab** - TODO: Will build after SIC course. Plan: Build -> Hack (Wireshark) -> Fix (TLS)
+- **TryHackMe-Writeups** - Daily notes, no flags, only learnings
+
+### 📫 Connect
+- GitHub: @donottreadmyname
+- TryHackMe: https://tryhackme.com/p/NgocDang
+
+---
