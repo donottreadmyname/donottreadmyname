@@ -11,8 +11,8 @@
 
 ### 📚 What I'm Learning Now (WIP)
 - [ ] TryHackMe - Pre Security Path (100%)
-- [ ] TryHackMe - Cyber Security 101 Path (In Progress)
-- [ ] Fortinet FCF / NSE 1-3 - Plan next month
+- [ ] TryHackMe - Cyber Security 101 Path (100%)
+- [ ] Fortinet FCF / NSE 1-3 - Now
 - [ ] SIC Samsung IoT Course - Upcoming
 
 ### 🛠️ What I Can Do Now
