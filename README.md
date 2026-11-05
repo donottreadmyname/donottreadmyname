@@ -1,32 +1,50 @@
-### Hi, I'm Dang - Cybersecurity Student 👋
+<h1 align="center">Hi, I'm Đăng 👋</h1>
 
-> 2nd-year Cybersecurity | Focus: IoT Security (Hardware + Software) | Learning in public from dormitory
+<p align="center">
+  Cybersecurity student at ICTU · Thai Nguyen, Vietnam<br>
+  <b>SOC &amp; Digital Forensics</b> · side interest: IoT security
+</p>
 
-### 👨‍💻 About Me
-- 🎓 2nd-year Cybersecurity Student (2025-2029)
-- 🎯 Goal: **IoT / Product Security Intern**
-- 🌱 Currently learning: TryHackMe Pre Security + Cyber Security 101
-- 🏠 Setup: 1 laptop + dormitory WiFi + ESP32 (soon)
-- 💡 Motto: Learn 3 lab/day, write it down, build it secure
+<p align="center">
+  <a href="https://tryhackme.com/p/NgocDang"><img src="https://img.shields.io/badge/TryHackMe-NgocDang-212C42?logo=tryhackme&logoColor=white" alt="TryHackMe: NgocDang"></a>
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team-1f6feb" alt="Focus: Blue Team">
+  <img src="https://img.shields.io/badge/Year-2%20of%204-555" alt="Year 2 of 4">
+</p>
 
-### 📚 What I'm Learning Now (WIP)
-- [ ] TryHackMe - Pre Security Path (100%)
-- [ ] TryHackMe - Cyber Security 101 Path (100%)
-- [ ] Fortinet FCF / NSE 1-3 - Now
-- [ ] SIC Samsung IoT Course - Upcoming
+I learn by doing labs, CTFs and small tools, and I write down what I learn.
 
-### 🛠️ What I Can Do Now
-- **OS:** Basic Linux commands (ls, cd, cat, grep, chmod, ssh)
-- **Code:** Basic Python (file I/O, socket, requests)
-- **NetSec:** Wireshark (filter http, dns, tcp), Nmap basic scan
-- **Learning:** MQTT basics, ESP32 basics
+## 🏆 Highlights
 
-### 🚧 Projects - Work In Progress
-- **IoT-Security-Lab** - TODO: Will build after SIC course. Plan: Build -> Hack (Wireshark) -> Fix (TLS)
-- **TryHackMe-Writeups** - Daily notes, no flags, only learnings
+- **Consolation Prize, Group B (Jeopardy)** — Vietnam Student Cybersecurity Competition 2026, national final (4-member team)
+- **Huawei ICT Competition 2026–2027**, Network Track — competitor
+- **TryHackMe:** Pre Security ✅ · Cyber Security 101 ✅ · SOC Level 1 🚧
 
-### 📫 Connect
-- GitHub: @donottreadmyname
-- TryHackMe: https://tryhackme.com/p/NgocDang
+## 🔎 What I'm working on
 
----
+- **SOC Level 1** on TryHackMe, preparing for the SAL1 exam
+- **CTFs** as a regular habit — write-ups in [CTF-Writeups](https://github.com/donottreadmyname/CTF-Writeups)
+- **[IoT-Security-Lab](https://github.com/donottreadmyname/IoT-Security-Lab)** — an ESP32 sensor node: build it, capture its traffic, then secure it
+- Samsung Innovation Campus (IoT) · Fortinet NSE 1–3
+
+## 🧰 Tools and skills
+
+| Area | What I use |
+|---|---|
+| Security operations | Splunk (SPL), Sysmon, Windows Event Logs, MITRE ATT&CK |
+| Network | Wireshark, Nmap, TCP/IP, DNS, HTTP, VLAN and routing basics |
+| Systems | Linux CLI, Windows CLI, reading PowerShell |
+| Code | Python (scripts, sockets), C++ for algorithms |
+
+## 📂 Featured repositories
+
+| Repository | What it is |
+|---|---|
+| [CTF-Writeups](https://github.com/donottreadmyname/CTF-Writeups) | My CTF write-ups, each with a short "blue team view" |
+| [small-security-projects](https://github.com/donottreadmyname/small-security-projects) | Small Python security tools: password checker, port scanner, more coming |
+| [TryHackMe-Writeups](https://github.com/donottreadmyname/TryHackMe-Writeups) | Notes from TryHackMe learning paths, no flags |
+| [IoT-Security-Lab](https://github.com/donottreadmyname/IoT-Security-Lab) | ESP32 + MQTT security lab (in progress) |
+
+## 📫 Find me
+
+- TryHackMe: [NgocDang](https://tryhackme.com/p/NgocDang)
+- Blog: [Hashnode](https://iot-security-lab.hashnode.dev)
